@@ -1,4 +1,3 @@
-
 # RideX - Ride Sharing Application
 
 A ride sharing application with Express.js backend, MongoDB database and React frontend.
